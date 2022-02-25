@@ -1,5 +1,7 @@
 # server
-Servidor de contactos para la herramienta de videoconferencia
+Servidor de contactos para la herramienta de videoconferencia.
+
+Esta herramienta se diseñó mediante scripts de Linux para cumplir con las distintas funcionalidades y los experimentos se efectuaron en ordenadores con sistema operativo Ubuntu 20.04. Para efectuar los diferentes cálculos también se implementaron scripts en Python 3.7. 
 
 Esta herramienta se instala en un equipo dentro de la misma red. Es la primera herramienta en entrar en funcionamiento.
 
